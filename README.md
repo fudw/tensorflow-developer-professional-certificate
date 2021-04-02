@@ -1,6 +1,9 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 02.04.2021
+Cats vs Dogs classification with data augmentation<br/>
+<br/><br/>
 ### 27.03.2021
 Clip art classification with CNN fed with ImageDataGenerators<br/>
 <br/><br/>
