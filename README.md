@@ -1,6 +1,8 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 04.04.2021
+Horses vs humans classification with dropout<br/><br/><br/>
 ### 02.04.2021
 Cats vs Dogs classification with data augmentation<br/>
 <br/><br/>
