@@ -1,6 +1,10 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 18.04.2021
+Wine type classification and quality regression<br/>
+Multiple output model built with Keras functional API<br/>
+<br/><br/>
 ### 05.04.2021
 Sign language MNIST multiclass classification<br/>
 <br/><br/>
