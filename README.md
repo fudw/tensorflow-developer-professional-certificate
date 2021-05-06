@@ -1,6 +1,10 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 06.05.2021
+Zombie detector with bounding boxes<br/>
+Transfer learning using RetinaNet retrained with 5 labelled images<br/>
+<br/><br/>
 ### 18.04.2021
 Wine type classification and quality regression<br/>
 Multiple output model built with Keras functional API<br/>
