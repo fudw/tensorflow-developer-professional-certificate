@@ -1,6 +1,10 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 09.05.2021
+Handwritten digits semantic segmentation<br/>
+Image segmentation wtih VGG16-FCN8 encoder-decoder architecture<br/>
+<br/><br/>
 ### 06.05.2021
 Zombie detector with bounding boxes<br/>
 Transfer learning using RetinaNet retrained with 5 labelled images<br/>
