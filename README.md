@@ -1,6 +1,10 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 12.05.2021
+Saliency maps<br/>
+Saliency map generation for model visualisation and interpretation<br/>
+<br/><br/>
 ### 09.05.2021
 Handwritten digits semantic segmentation<br/>
 Image segmentation wtih VGG16-FCN8 encoder-decoder architecture<br/>
