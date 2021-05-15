@@ -1,6 +1,10 @@
 # tfDevProCert
 Projects for the TensorFlow Developer Professional Certificate
 <br/><br/>
+### 15.05.2021
+Auto Encoder<br/>
+Convolutional Auto Encoder with encoder output visualisation<br/>
+<br/><br/>
 ### 13.05.2021
 Neural style transfer<br/>
 Neural style transfer with InceptionV3 as feature extractor<br/>
